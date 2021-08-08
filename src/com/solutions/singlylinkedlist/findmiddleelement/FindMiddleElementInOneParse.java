@@ -1,4 +1,6 @@
-package com.solutions.singlylinkedlist;
+package com.solutions.singlylinkedlist.findmiddleelement;
+
+import com.solutions.singlylinkedlist.Node;
 
 public class FindMiddleElementInOneParse {	
 	protected void findMiddleElementInOneParse(Node head) throws Exception {

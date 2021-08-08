@@ -1,4 +1,7 @@
-package com.solutions.singlylinkedlist;
+package com.solutions.singlylinkedlist.findmiddleelement;
+
+import com.solutions.singlylinkedlist.Node;
+import com.solutions.singlylinkedlist.SinglyLinkedList;
 
 public class MiddleElementDemo {
 	
